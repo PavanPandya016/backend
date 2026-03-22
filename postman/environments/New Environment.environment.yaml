@@ -1,0 +1,8 @@
+name: New Environment
+values:
+  - key: 1st
+    value: 'http://localhost:8000/api/v1/'
+    enabled: true
+  - key: ''
+    value: ''
+    enabled: true
